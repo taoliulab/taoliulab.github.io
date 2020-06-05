@@ -8,34 +8,34 @@ permalink: /Softwares/
 
 - Bioinformatics software
 
- - MACS
+	- MACS
 
- - HMMRATAC
+	- HMMRATAC
 
- - SAPPER
+	- SAPPER
 
- - MAESTRO
+	- MAESTRO
 
 - Data anaylysis Pipelines
 
- - ChIP-seq analysis pipeline
+	- ChIP-seq analysis pipeline
 
- - ATAC-seq analysis pipeline
+	- ATAC-seq analysis pipeline
 
- - RNA-seq analysis pipeline
+	- RNA-seq analysis pipeline
 
- - scRNA-seq pipeline
+	- scRNA-seq pipeline
 
- - scATAC-seq pipeline
+	- scATAC-seq pipeline
 
- - ChIP/ATAC-seq + RNA-seq integration pipeline
+	- ChIP/ATAC-seq + RNA-seq integration pipeline
 
- - scRNA+scATAC-seq integration pipeline
+	- scRNA+scATAC-seq integration pipeline
 
 - Web services
 
- - Cistrome
+	- Cistrome
 
 - Database
 
- - Cistrome DB
+	- Cistrome DB
