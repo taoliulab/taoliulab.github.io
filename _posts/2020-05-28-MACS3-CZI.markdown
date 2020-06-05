@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MACS3 is getting support from CZI!"
+date:   2020-05-28 14:03:00 -0500
+categories: jekyll update
+---
+
+[press release]
+
+[press release]: https://chanzuckerberg.com/newsroom/awards-3-8-million-open-source-software-projects-essential-science/
