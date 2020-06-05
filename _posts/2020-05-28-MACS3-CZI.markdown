@@ -7,4 +7,7 @@ categories: jekyll update
 
 [press release]
 
+[MACS github]
+
 [press release]: https://chanzuckerberg.com/newsroom/awards-3-8-million-open-source-software-projects-essential-science/
+[MACS github]: https://github.com/macs3-project/MACS
