@@ -8,13 +8,13 @@ permalink: /Softwares/
 
 - Bioinformatics software
 
-	- MACS
+	- [MACS]
 
-	- HMMRATAC
+	- [HMMRATAC]
 
-	- SAPPER
+	- [SAPPER]
 
-	- MAESTRO
+	- [MAESTRO]
 
 - Data anaylysis Pipelines
 
@@ -34,8 +34,16 @@ permalink: /Softwares/
 
 - Web services
 
-	- Cistrome
+	- [Cistrome]
 
 - Database
 
-	- Cistrome DB
+	- [Cistrome DB]
+
+
+[MACS]: https://github.com/macs3-project/MACS
+[HMMRATAC]: https://github.com/LiuLabUB/HMMRATAC
+[SAPPER]: https://github.com/taoliu/SAPPER
+[MAESTRO]: https://github.com/liulab-dfci/MAESTRO
+[Cistrome]: http://cistrome.org/ap/root
+[Cistrome DB]: http://cistrome.org/db/
