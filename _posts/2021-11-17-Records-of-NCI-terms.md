@@ -9,9 +9,9 @@ categories: jekyll update
 
 NCI Enterprise Vocabulary Services (EVS) has provided terminology content, tools, and services to accurately code, analyze and share cancer and biomedical research, clinical and public health information.
 
-## [NCI EVS terms browser](https://nciterms.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies)
+* [NCI EVS terms browser](https://nciterms.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies)
 
-## [Bioportal for NCI Thesaurus](https://bioportal.bioontology.org/ontologies/NCIT/)
+* [Bioportal for NCI Thesaurus](https://bioportal.bioontology.org/ontologies/NCIT/)
 
 # Another alternative common terms, from OHDSI project, [ATHENA](https://athena.ohdsi.org/search-terms/start)
 
