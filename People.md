@@ -4,10 +4,15 @@ title: People
 permalink: /People/
 ---
 
-## Tao Liu
+## PI
 
-## Jiaojiao Zhou
+* Tao Liu
+
+## Students
+
+* Jiaojiao Zhou
 
 ## BRSIR team
 
-
+* Philip Whalen
+* Philippa Doherty

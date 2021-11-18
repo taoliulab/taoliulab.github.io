@@ -2,7 +2,7 @@
 layout: post
 title:  "Records of NCI terms"
 date:   2021-11-17 12:29:00 -0500
-categories: jekyll update
+categories: Blog
 ---
 
 # [NCI EVS](https://evs.nci.nih.gov/)
