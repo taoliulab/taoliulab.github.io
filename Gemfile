@@ -21,7 +21,7 @@ end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 2.0"
+  gem "tzinfo", "~> 1.1"
   gem "tzinfo-data"
 end
 
@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # github
 gem "github-pages", "~> 221", group: :jekyll_plugins
+
+# security remedies
+gem "activesupport", ">= 4.1.11"
