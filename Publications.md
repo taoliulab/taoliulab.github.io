@@ -4,10 +4,16 @@ title: Publications
 permalink: /Publications/
 ---
 
+# 2021
+
+1. Zhang, H., Song, L., Wang, X., Cheng, H., Wang, C., Meyer, C., **Liu, T.**, Tang M., Aluru, S., Yue, F., Liu, XS., and Li, H. (2021) Fast Alignment and Preprocessing of Chromatin Profiles with Chromap. Nat Commu. 12(1):6566.
+1. Wu, F., Bard, J.E., Kann, J., Yergeau, D., Sapkota, D., Ge, Y., Hu, Z., Wang, J., **Liu, T.**, and Mu, X. (2021) Single cell transcriptomics reveals lineage trajectory of retinal ganglion cells in wild-type and Atoh7-null retinas. Nat Commun. 12(1):1465.
+1. Zhou, Y., Bastian, I.N., Long, M.D., Dow, M., Li, W.,**Liu, T.**, Ngu, R.K., Antonucci, L., Huang, J.Y., Phung, Q.T., Zhao, X.H., Banerjee, S., Lin, X.J., Wang, H., Dang, B., Choi, S., Karin, D., Su, H., Ellisman, M.H., Jamieson, C., Bosenberg, M., Cheng, Z., Haybaeck, J., Kenner, L., Fisch, K.M., Bourgon, R., Hernandez, G., Lill, J.R., Liu, S., Carter, H., Mellman, I., Karin, M., and Shalapour, S. (2021) Activation of NF-κB and p300/CBP potentiates cancer chemoimmunotherapy through induction of MHC-I antigen presentation. Proc Natl Acad Sci U S A. 118(8).
+1. Amobi-McCloud, A., Muthuswamy, R., Battaglia, S., Yu, H., **Liu, T.**, Wang, J., Putluri, V., Singh, P., Qian, F., Huang, R.Y., Putluri, N., Takemasa, T., Lugade, A., Liu, S., and Odunsi, K. (2021) IDO1 expression in ovarian cancer induces PD-1 in T cells via aryl hydrocarbon receptor activation. Front Immunol. 12:678999
+
 # 2020
 
 1. Wang, CF., Sun, DQ., Huang, X., Wan, CX., Li, ZY., Meyer, C., **Liu, T.**, and Liu, XS. Integrative Analyses of Single-cell Transcriptome and Regulome using MAESTRO. Under revision at Genome Biology
-1. Amobi-McCloud, A., Tsuji, T., Muthuswamy, R., Yu, H., **Liu, T.**, Wang, JM., Putluri, V., Singh, P., Battaglia, S., Putluri, N., Lugade, A., Liu, S., and Odunsi, K. Indoleamine 2,3-dioxygenase upregulates PD1 expression on ovarian tumor infiltrating CD8+ T cells via kynurenine activation of the aryl hydrocarbon receptor. Under revision at JCI Insight
 1. Humphrey, K.M., Zhu, L., Hickman, M.A., Hasan, S., Maria, H.,**Liu, T.**, and Rusche, L.N. Evolution of Distinct Responses to Low NAD+ Stress by Rewiring the Sir2 Deacetylase Network in Yeasts. (2020) Genetics
 
 # 2019
