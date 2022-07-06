@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Linux Basics"
-categories: Tutorial
+title:  "Linux Basics"
+date:   2022-07-06
+categories: Blog
 ---
 
 # Basic Command Lines
@@ -13,3 +14,4 @@ categories: Tutorial
 # Your own linux in the box -- Docker
 
 # Your own linux in the box -- VirtualBox
+

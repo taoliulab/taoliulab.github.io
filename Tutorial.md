@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tutorial
-permalink: /Tutorial/
+title:  "Tutorials"
+permalink: /Tutorials/
 ---
 
-# [Linux basics](/Tutorial/LinuxBasics)
+# [Linux basics](/Blog/Linux-Basics)
 
 # [How to use conda]
 
