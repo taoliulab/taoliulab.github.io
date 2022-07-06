@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Linux Basics"
-permalink: /Tutorial/LinuxBasics
 categories: Tutorial
 ---
 
