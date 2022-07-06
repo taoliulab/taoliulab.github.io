@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Linux Basics
+layout: post
+title: "Linux Basics"
 permalink: /Tutorial/LinuxBasics
+categories: Tutorial
 ---
 
 # Basic Command Lines
