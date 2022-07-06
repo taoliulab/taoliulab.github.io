@@ -4,15 +4,15 @@ title: Tutorial
 permalink: /Tutorial/
 ---
 
-# Linux basics
+# [Linux basics](/Tutorial/LinuxBasics)
 
-# How to use conda
+# [How to use conda]
 
-# SLURM system
+# [SLURM system]
 
-# Python+Jupyter setup
+# [Python+Jupyter setup]
 
-# R + Rstudio setup
+# [R + Rstudio setup]
 
-# Pipeline management
+# [Pipeline management]
 
