@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Softwares"
-permalink: /Softwares/
+title: "Software"
+permalink: /Software/
 ---
 
 # List of software we developed
