@@ -8,11 +8,11 @@ permalink: /Tutorials/
 
 # How to use [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) and [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-# [SLURM system]
+# [SLURM system](https://ubccr.freshdesk.com/support/solutions/articles/5000686927)
 
-# [Python+Jupyter setup]
+# [Python+Jupyter setup](https://www.youtube.com/watch?v=A5YyoCKxEOU)
 
-# [R + Rstudio setup]
+# [R + Rstudio setup](/blog/R-and-Rstudio)
 
-# [Pipeline management]
+# Pipeline management using [snakemake](/blog/Use-Snakemake) or [CWL](/blog/Use-CWL)
 
