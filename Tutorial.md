@@ -4,7 +4,7 @@ title:  "Tutorials"
 permalink: /Tutorials/
 ---
 
-# [Linux basics](/blog/Linux-Basics)
+# [Basic Linux Command Lines]({{ site.baseurl }}{% link _technical_notes/2023-05-22-basic-linux-commands.md %})
 
 # How to use [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) and [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 

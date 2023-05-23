@@ -6,14 +6,14 @@ permalink: /Publications/
 
 # 2023
 
-1. Kirk, J. S., Wang, J., Tracz, A., Long, M., Rosario, S. R., Ji, Y., Kumar, R., Liu, X., Singh, P. K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J. L., Lovell, J., Yu, H., Liu, S., Shen, M. M., **Liu, T.**, and Tang, D. G. (2023). Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells. bioRxiv : the preprint server for biology, 2023.03.03.530998. https://doi.org/10.1101/2023.03.03.530998
+1. Kirk, J. S., Wang, J., Tracz, A., Long, M., Rosario, S. R., Ji, Y., Kumar, R., Liu, X., Singh, P. K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J. L., Lovell, J., Yu, H., Liu, S., Shen, M. M., **Liu, T.**, and Tang, D. G. (2023). Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells. bioRxiv : the preprint server for biology, 2023.03.03.530998. [link](https://doi.org/10.1101/2023.03.03.530998)
 2.  Ge, Y., Chen, X., Nan, N., Bard, J., Wu, F., Yergeau, D., **Liu, T.**, Wang, J., and Mu, X. (2023) Key transcription factors influence the epigenetic landscape to regulate retinal cell differentiation.  Nucleic Acids Res. 51 (5), 2151-2176
 
 # 2022
 
 1. Wang, J., Morgan, W., Saini, A., **Liu, T.**, Lough, J., and Han, L. (2022) Single-cell transcriptomic profiling reveals specific maturation signatures in human cardiomyocytes derived from LMNB2-inactivated induced pluripotent stem cells. Front Cell Dev Biol. Nov 28;10:895162. doi: 10.3389/fcell.2022.895162. eCollection 2022.
 2. Hagiwara, M., Fushimi, A., Bhattacharya, A., Yamashita, N., Morimoto, Y., Oya, M., Withers, HG., Hu, Q., **Liu, T.**, Liu, S., Wong. KK., Long. MD., and Kufe. D. (2022) MUC1-C integrates type II interferon and chromatin remodeling pathways in immunosuppression of prostate cancer. Oncoimmunology.11(1):2029298.
-3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022) MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells. Mol Cancer Res. https://doi.org/10.1158/1541-7786.MCR-21-0672
+3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022) MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells. Mol Cancer Res. [link](https://doi.org/10.1158/1541-7786.MCR-21-0672)
 
 # 2021
 
