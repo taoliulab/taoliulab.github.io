@@ -5,7 +5,7 @@ date:   2022-07-06
 categories: Blog
 ---
 
-# Basic Command Lines
+# [Basic Command Lines]({{ site.baseurl }}{% link _technical_notes/2023-05-22-linux-basics.md %})
 
 # Debian system
 
