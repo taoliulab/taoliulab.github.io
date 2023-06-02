@@ -6,6 +6,8 @@ permalink: /Tutorials/
 
 # [Basic Linux Command Lines]({{ site.baseurl }}{% link _technical_notes/2023-05-22-basic-linux-commands.md %})
 
+# [Basic SSH Usages for the CCR server]({{ site.baseurl }}{% link _technical_notes/2023-06-02-basic-ssh-usages.md %})
+
 # How to use [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) and [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 # [SLURM system](https://ubccr.freshdesk.com/support/solutions/articles/5000686927)
