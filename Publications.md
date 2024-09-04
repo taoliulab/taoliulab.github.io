@@ -3,11 +3,16 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
+# 2024
+
+1. Kirk J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024) Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.Cell Stem Cell. 31(8):1203-1221.e7.
+2. Jiang, K., **Liu, T.**, Kales, S., Tewhey, R., Kim, D., Park, Y., Jarvis, J.N. A systematic strategy for identifying causal single nucleotide polymorphisms and their target genes on Juvenile arthritis risk haplotypes. (2024) BMC Med Genomics. 17(1):185. 
 
 # 2023
 
-1. Kirk, J. S., Wang, J., Tracz, A., Long, M., Rosario, S. R., Ji, Y., Kumar, R., Liu, X., Singh, P. K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J. L., Lovell, J., Yu, H., Liu, S., Shen, M. M., **Liu, T.**, and Tang, D. G. (2023). Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells. bioRxiv : the preprint server for biology, 2023.03.03.530998. [link](https://doi.org/10.1101/2023.03.03.530998)
-2.  Ge, Y., Chen, X., Nan, N., Bard, J., Wu, F., Yergeau, D., **Liu, T.**, Wang, J., and Mu, X. (2023) Key transcription factors influence the epigenetic landscape to regulate retinal cell differentiation.  Nucleic Acids Res. 51 (5), 2151-2176
+1. **Liu, T.**, Zhou, J., Chen, Y., Fang, J., Liu, S., Frangou, C., and Zhang, J. (2023) Genome-wide characterization of TAZ binding sites in mammary epithelial cells in temporary and special manner. Cancers. 15(19):4713
+2. Yamashita, N., Morimoto, Y., Fushimi, A., Ahmad, R., Bhattacharya, A., Daimon, T., Haratake, N., Inoue, Y., Ishikawa, S., Yamamoto, M., Hata, T., Akiyoshi, S., Hu, Q., **Liu, T.**, Withers, H., Liu, S., Shapiro, G.I., Yoshizumi, T., Long, M.D., and Kufe, D. (2023) MUC1-C Dictates PBRM1-Mediated Chronic Induction of Interferon Signaling, DNA Damage Resistance, and Immunosuppression in Triple-Negative Breast Cancer. Mol Cancer Res. 21(3):274-289.
+3.  Ge, Y., Chen, X., Nan, N., Bard, J., Wu, F., Yergeau, D., **Liu, T.**, Wang, J., and Mu, X. (2023) Key transcription factors influence the epigenetic landscape to regulate retinal cell differentiation.  Nucleic Acids Res. 51 (5), 2151-2176
 
 # 2022
 
