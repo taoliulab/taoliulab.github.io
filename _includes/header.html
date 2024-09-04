@@ -5,7 +5,10 @@
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
   {%- if titles_size > 0 -%}
-      <nav class="site-nav">
+  <nav class="site-nav">
+  <a href="/">
+    <img src="imgs/black_cat_icon.png" alt="Icon" style="width: 128px; height: 128px; vertical-align: middle;">
+  </a>
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
