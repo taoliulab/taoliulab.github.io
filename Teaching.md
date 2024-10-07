@@ -18,6 +18,6 @@ arm.
 
 # Teaching
 
-- RPG 520
+- RPG 520 Principal of Computational Oncology
 
 - BMS 515

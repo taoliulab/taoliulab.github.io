@@ -17,4 +17,19 @@ permalink: /People/
 * Philip Whalen
 * Philippa Doherty
 
+## BioC developer
+
+* Lori (Shepherd) Kern
+
+## Past members (Phd Students and Post-doc researchers)
+
+* Evan Tarball
+* Liqing Tian
+* Lisa Zhu
+
+## Summer students
+
+* Jonathan Li
+* Trey Hutson
+
 [Tao Liu]: https://www.roswellpark.org/tao-liu
