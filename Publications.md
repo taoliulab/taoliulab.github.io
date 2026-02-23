@@ -3,6 +3,11 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
+# 2025
+
+1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025) Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer. Cell Reports. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:6uOcHTua4cQC) (**Liu is co-corresponding author**)
+2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025) Computational Analyses and Challenges of Single-cell ATAC-seq. Genomics, Proteomics & Bioinformatics. 23(6):qzaf115. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:vCSeWdjOjw8C) (**Liu is co-corresponding author**)
+
 # 2024
 
 1. Kirk J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024) Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.Cell Stem Cell. 31(8):1203-1221.e7.
