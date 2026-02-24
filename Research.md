@@ -4,22 +4,34 @@ title: Research
 permalink: /Research/
 ---
 
-# Research Overview
+# Research overview
 
-I am developing and applying computational approaches for transcriptional and epigenetics regulation studies. I developed widely used open-source algorithms, including MACS (cited over 19,000 times according to Google Scholar) to analyze ChIP-seq and ATAC-seq data, and an integrative platform for comprehensive analyses on cis-regulatory elements (Cistrome platform). I was a member of the Data Analysis Center and Analysis Working Group of the ENCODE and modENCODE consortium and was involved in deciphering functional elements through analyzing high-throughput profiles of chromatin factors and in comparing chromatin features between model organisms and the human genome. I have actively participated in the development of ChIP-seq guidelines for broad scientific communities. I am the principal investigator of MACS3 project which is supported by Chan-Zuckerberg Initiative. I am currently the tech leader of the [NCI ARTNet](https://www.nciartnet.org/) Coordinating and Data Management Center, the [NCI CAP-IT](https://www.ncicapit.org/) Data and Resource Coordination Center, and the [NCI CIPNET](https://nci-cipnet.org//) Data and Resource Coordination Center. I am a member in the Developmental Therapeutics program under Cancer Center Support Grant (CCSG) for Roswell Park Comprehensive Cancer Center. My team at Roswell Park focuses on building bioinformatics algorithms for single-cell genomics assays to study transcriptional and epigenetic regulatory mechanisms in cancer. 
+I develop and apply computational methods for studying transcriptional and epigenetic regulation. My group builds open-source software for epigenomics and single-cell genomics, with a focus on regulatory mechanisms in cancer.
 
-## Algorithm development on analyzing epigenomics data 
+I developed widely used tools including MACS, which has been cited more than 19,000 times (Google Scholar), and helped build the Cistrome platform for integrative analysis of cis-regulatory elements. I previously served in the ENCODE and modENCODE Data Analysis Center and Analysis Working Group, where I contributed to large-scale analysis of chromatin profiles and cross-species comparisons of regulatory features. I also contributed to ChIP-seq best-practice guidelines used by the broader research community.
 
-My ongoing research was focused on building methodologies to analyze high-throughput sequencing data targeting at functional regulatory elements. My colleagues and I explored the system noises existing in ChIP-Seq, and applied a dynamic Poisson model to predict transcript factor binding sites or genomic regions with modified histones. The software MACS, which I am still actively maintaining and developing, is well-known of its accuracy and efficiency. It has been widely used by ChIP-Seq community, also was selected as one of the standard bioinformatics tools used by ENCODE, modENCODE, and Roadmap Epigenome consortium. I also extend my research to build methods for other genomics assays such as CUT&Run and ATAC-seq, and recently for single-cell genomic assays.
+I am the principal investigator of the MACS3 project, supported by the Chan Zuckerberg Initiative. I currently serve as technical lead for the [NCI ARTNet](https://www.nciartnet.org/) Coordinating and Data Management Center, the [NCI CAP-IT](https://www.ncicapit.org/) Data and Resource Coordination Center, and the [NCI CIPNET](https://nci-cipnet.org/) Data and Resource Coordination Center. At Roswell Park, I am a member of the Developmental Therapeutics Program under the Cancer Center Support Grant (CCSG).
 
-## Epigenomics database, knowledgebase and infrastructure building
+## Algorithm development for epigenomics data
 
-I have participated in building computational infrastructure to ease the data analysis of next-generation sequencing data. I lead a team from Harvard and Eli Lilly, and developed an interactive web-based platform ‘Cistrome Analysis Pipeline’ where users can upload their own ChIP-Seq and RNA-Seq datasets and access a preselected bioinformatics tools for data analysis. I also worked with my colleagues in Harvard to develop downstream analysis tools, databases for all public available human and mouse ChIP-Seq datasets, and searching engines that were further integrated under the Cistrome project.
+A major part of my work is method development for high-throughput sequencing data that measure functional regulatory elements. My colleagues and I studied technical noise in ChIP-seq and developed dynamic Poisson-model-based approaches to detect transcription factor binding sites and histone-marked regions. MACS remains a core project in my lab, and we continue to improve it for accuracy, robustness, and speed.
 
-## Works in consortiums
+Beyond ChIP-seq, we have developed methods for related assays such as CUT&RUN and ATAC-seq, and we are increasingly focused on method development for single-cell genomic assays.
 
-I have been participating in many NIH funded consortiums such as ENCODE, modENCODE and cancer moonshots, to understand the transcriptional and epigenetic regulation of model organisms and human. My colleagues and I discovered that the methylation on lysine 36 of histone 3 (H3K36me3) links to the exon-intron structure and splicing events of eukaryotes. We also reported broad chromosomal domains with histone modification patterns in C. elegans genome and elucidated the changes of the organization and deployment of the C. elegans genome during development. Recently, I collaborated with our IOTN moonshot consortium colleagues at Dana-Farber and identified the epigenetics role of MUC-1 in cancer stem cells.
+## Epigenomics databases, knowledgebases, and infrastructure
 
-## Collaborative works with biologists to understand epigenetic gene regulation
+I have worked on computational infrastructure that lowers the barrier for next-generation sequencing analysis. I led a team across Harvard and Eli Lilly to develop the web-based Cistrome Analysis Pipeline, which allows users to upload ChIP-seq and RNA-seq data and run curated downstream analyses through an integrated interface.
 
-In addition to the contributions described above, with a team of collaborators, I studied the epigenetic regulation in different development stages and tissues of human and mouse. My collaborators at UPenn and I used a mouse system to discover that the epigenetic regulation through histone deacetylase changes over time within a circadian rhythm driven by intrinsic clock of the cells. In a recent collaboration, my UB collaborator and I applied a combination of chromatin immunoprecipitation, RNA expression assays and single-cell experiments to elucidate the development of retinal ganglion cells in mouse.
+I also worked with colleagues at Harvard to build downstream analysis tools, large-scale databases of public human and mouse ChIP-seq datasets, and search systems that were integrated into the broader Cistrome ecosystem.
+
+## Consortium work
+
+I have participated in multiple NIH-funded consortia, including ENCODE, modENCODE, and Cancer Moonshot programs, to study transcriptional and epigenetic regulation in model organisms and human systems.
+
+In this work, my collaborators and I reported that H3K36me3 is linked to exon-intron structure and splicing in eukaryotes. We also characterized broad chromosomal domains of histone modifications in *C. elegans* and examined how genome organization changes during development. More recently, in collaboration with IOTN Moonshot colleagues at Dana-Farber, we identified epigenetic roles of MUC1 in cancer stem-cell biology.
+
+## Collaborative work with biologists on epigenetic regulation
+
+Alongside method and infrastructure work, I collaborate closely with experimental biologists to study epigenetic regulation across tissues and developmental stages.
+
+With collaborators at UPenn, we used mouse models to show that histone deacetylase-mediated epigenetic regulation changes over circadian time in a cell-intrinsic clock framework. In another collaboration, with colleagues at UB, we combined chromatin immunoprecipitation, RNA expression assays, and single-cell experiments to study retinal ganglion cell development in mouse.
