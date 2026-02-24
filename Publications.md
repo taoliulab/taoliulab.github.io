@@ -3,21 +3,24 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
+
+
+> Note: **Liu, T.** is highlighted in bold. Role notes such as **co-corresponding author** are shown inline for relevant papers.
 # 2025
 
-1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025) Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer. Cell Reports. [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X) (**co-corresponding author**)
-2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025) Computational Analyses and Challenges of Single-cell ATAC-seq. Genomics, Proteomics & Bioinformatics. 23(6):qzaf115. [link](https://academic.oup.com/gpb/article/23/6/qzaf115/8260155) (**co-corresponding author**)
+1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X) (**co-corresponding author**)
+2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025). *Computational Analyses and Challenges of Single-cell ATAC-seq.* **Genomics, Proteomics & Bioinformatics** 23(6): qzaf115. [Journal link](https://academic.oup.com/gpb/article/23/6/qzaf115/8260155) (**co-corresponding author**)
 
 # 2024
 
-1. Kirk J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024) Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.Cell Stem Cell. 31(8):1203-1221.e7. (**co-corresponding author**)
-2. Jiang, K., **Liu, T.**, Kales, S., Tewhey, R., Kim, D., Park, Y., Jarvis, J.N. A systematic strategy for identifying causal single nucleotide polymorphisms and their target genes on Juvenile arthritis risk haplotypes. (2024) BMC Med Genomics. 17(1):185. 
+1. Kirk, J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024). *Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.* **Cell Stem Cell** 31(8):1203-1221.e7. (**co-corresponding author**)
+2. Jiang, K., **Liu, T.**, Kales, S., Tewhey, R., Kim, D., Park, Y., Jarvis, J.N. (2024). *A systematic strategy for identifying causal single nucleotide polymorphisms and their target genes on juvenile arthritis risk haplotypes.* **BMC Medical Genomics** 17(1):185.
 
 # 2023
 
-1. **Liu, T.**, Zhou, J., Chen, Y., Fang, J., Liu, S., Frangou, C., and Zhang, J. (2023) Genome-wide characterization of TAZ binding sites in mammary epithelial cells in temporary and special manner. Cancers. 15(19):4713
-2. Yamashita, N., Morimoto, Y., Fushimi, A., Ahmad, R., Bhattacharya, A., Daimon, T., Haratake, N., Inoue, Y., Ishikawa, S., Yamamoto, M., Hata, T., Akiyoshi, S., Hu, Q., **Liu, T.**, Withers, H., Liu, S., Shapiro, G.I., Yoshizumi, T., Long, M.D., and Kufe, D. (2023) MUC1-C Dictates PBRM1-Mediated Chronic Induction of Interferon Signaling, DNA Damage Resistance, and Immunosuppression in Triple-Negative Breast Cancer. Mol Cancer Res. 21(3):274-289.
-3.  Ge, Y., Chen, X., Nan, N., Bard, J., Wu, F., Yergeau, D., **Liu, T.**, Wang, J., and Mu, X. (2023) Key transcription factors influence the epigenetic landscape to regulate retinal cell differentiation.  Nucleic Acids Res. 51 (5), 2151-2176
+1. **Liu, T.**, Zhou, J., Chen, Y., Fang, J., Liu, S., Frangou, C., and Zhang, J. (2023). *Genome-wide characterization of TAZ binding sites in mammary epithelial cells in temporary and special manner.* **Cancers** 15(19):4713.
+2. Yamashita, N., Morimoto, Y., Fushimi, A., Ahmad, R., Bhattacharya, A., Daimon, T., Haratake, N., Inoue, Y., Ishikawa, S., Yamamoto, M., Hata, T., Akiyoshi, S., Hu, Q., **Liu, T.**, Withers, H., Liu, S., Shapiro, G.I., Yoshizumi, T., Long, M.D., and Kufe, D. (2023). *MUC1-C Dictates PBRM1-Mediated Chronic Induction of Interferon Signaling, DNA Damage Resistance, and Immunosuppression in Triple-Negative Breast Cancer.* **Molecular Cancer Research** 21(3):274-289.
+3. Ge, Y., Chen, X., Nan, N., Bard, J., Wu, F., Yergeau, D., **Liu, T.**, Wang, J., and Mu, X. (2023). *Key transcription factors influence the epigenetic landscape to regulate retinal cell differentiation.* **Nucleic Acids Research** 51(5):2151-2176.
 
 # 2022
 
