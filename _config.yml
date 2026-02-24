@@ -34,6 +34,8 @@ plugins:
 
 permalink: /:categories/:title/
 
+show_home_post_list: false
+
 # Collections
 collections:
   technical_notes:

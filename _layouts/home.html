@@ -17,6 +17,7 @@ layout: base
   {% endif %}
 
 
+  {%- if site.show_home_post_list -%}
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
@@ -62,6 +63,7 @@ layout: base
       </div>
     {%- endif %}
 
+  {%- endif -%}
   {%- endif -%}
 
 </div>
