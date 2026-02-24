@@ -18,6 +18,9 @@ arm.
 
 # Teaching
 
-- RPG 520 Principal of Computational Oncology
-
-- BMS 515
+- 2024-2025 RPG 520 Principal of Computational Oncology
+- 2020-2025 BMS 515 Fundamentals of Biomedical Research
+- 2017-2019 BMS 503 Principles of Biochemistry
+- 2014-2016 BCH 403 Biochemistry Principles
+- 2014-2019 BCH 519 Bioinformatics and Computational Biology
+- 2014-2017 PPBS Winter Session Galaxy Platform

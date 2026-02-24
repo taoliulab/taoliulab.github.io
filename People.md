@@ -29,6 +29,7 @@ permalink: /People/
 
 ## Summer students
 
+* Hannah You
 * Jonathan Li
 * Trey Hutson
 
