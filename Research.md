@@ -12,6 +12,27 @@ I developed MACS, a widely used algorithm for ChIP-seq and related assays (cited
 
 I am the principal investigator of the MACS3 project, supported by the Chan Zuckerberg Initiative. I currently serve as technical lead for the [NCI ARTNet](https://www.nciartnet.org/) Coordinating and Data Management Center, the [NCI CAP-IT](https://www.ncicapit.org/) Data and Resource Coordination Center, and the [NCI CIPNET](https://nci-cipnet.org/) Data and Resource Coordination Center. At Roswell Park, I am a member of the Developmental Therapeutics Program under the Cancer Center Support Grant (CCSG).
 
+## Current focus areas
+
+- Method development for ChIP-seq, CUT&RUN, ATAC-seq, and single-cell epigenomics.
+- Statistical and computational models for regulatory element detection and interpretation.
+- Integrative analysis of transcriptional and epigenetic regulation in cancer systems.
+- Scalable software and data infrastructure for reproducible genomics analysis.
+
+## Representative outputs
+
+- [MACS3 project](https://github.com/macs3-project/MACS)
+- [Cistrome platform](http://cistrome.org/)
+- Cell Reports (2025): [Disrupting AR-WDR77 interaction in treatment-resistant prostate cancer](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X)
+- GPB (2025): [Computational Analyses and Challenges of Single-cell ATAC-seq](https://academic.oup.com/gpb/article/23/6/qzaf115/8260155)
+
+## Current leadership roles
+
+- Technical Lead, NCI ARTNet Coordinating and Data Management Center
+- Technical Lead, NCI CAP-IT Data and Resource Coordination Center
+- Technical Lead, NCI CIPNET Data and Resource Coordination Center
+- Principal Investigator, MACS3 (Chan Zuckerberg Initiative)
+
 ## Algorithm development for epigenomics data
 
 A central component of my program is method development for high-throughput sequencing assays that profile functional regulatory elements. My colleagues and I studied technical noise in ChIP-seq and developed dynamic Poisson-model-based approaches to detect transcription factor binding sites and histone-marked regions. MACS remains an active focus in my lab, with ongoing work to improve accuracy, robustness, and computational efficiency.
