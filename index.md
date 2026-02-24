@@ -22,8 +22,18 @@ various fields.
 ## Latest News
 
 <ul>
-{% for post in site.posts limit:3 %}
+{% assign now_ts = "now" | date: "%s" | plus: 0 %}
+{% assign one_year_secs = 31536000 %}
+{% assign shown = 0 %}
+{% for post in site.posts %}
+  {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+  {% assign age = now_ts | minus: post_ts %}
+  {% unless post.categories contains "Tutorials" %}
+    {% if age <= one_year_secs and shown < 5 %}
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
+      {% assign shown = shown | plus: 1 %}
+    {% endif %}
+  {% endunless %}
 {% endfor %}
 </ul>
 
