@@ -5,12 +5,12 @@ permalink: /Publications/
 ---
 # 2025
 
-1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025) Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer. Cell Reports. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:6uOcHTua4cQC) (**Liu is co-corresponding author**)
-2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025) Computational Analyses and Challenges of Single-cell ATAC-seq. Genomics, Proteomics & Bioinformatics. 23(6):qzaf115. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:vCSeWdjOjw8C) (**Liu is co-corresponding author**)
+1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025) Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer. Cell Reports. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:6uOcHTua4cQC) (**co-corresponding author**)
+2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025) Computational Analyses and Challenges of Single-cell ATAC-seq. Genomics, Proteomics & Bioinformatics. 23(6):qzaf115. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:vCSeWdjOjw8C) (**co-corresponding author**)
 
 # 2024
 
-1. Kirk J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024) Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.Cell Stem Cell. 31(8):1203-1221.e7.
+1. Kirk J.S., Wang, J., Long, M., Rosario, S., Tracz, A., Ji, Y., Kumar, R., Liu, X., Jamroze, A., Singh, P.K., Puzanov, I., Chatta, G., Cheng, Q., Huang, J., Wrana, J.L., Lovell, J., Yu, H., Liu, S., Shen, M.M., **Liu, T.**, Tang, D.G. (2024) Integrated single-cell analysis defines the epigenetic basis of castration-resistant prostate luminal cells.Cell Stem Cell. 31(8):1203-1221.e7. (**co-corresponding author**)
 2. Jiang, K., **Liu, T.**, Kales, S., Tewhey, R., Kim, D., Park, Y., Jarvis, J.N. A systematic strategy for identifying causal single nucleotide polymorphisms and their target genes on Juvenile arthritis risk haplotypes. (2024) BMC Med Genomics. 17(1):185. 
 
 # 2023
@@ -23,7 +23,7 @@ permalink: /Publications/
 
 1. Wang, J., Morgan, W., Saini, A., **Liu, T.**, Lough, J., and Han, L. (2022) Single-cell transcriptomic profiling reveals specific maturation signatures in human cardiomyocytes derived from LMNB2-inactivated induced pluripotent stem cells. Front Cell Dev Biol. Nov 28;10:895162. doi: 10.3389/fcell.2022.895162. eCollection 2022.
 2. Hagiwara, M., Fushimi, A., Bhattacharya, A., Yamashita, N., Morimoto, Y., Oya, M., Withers, HG., Hu, Q., **Liu, T.**, Liu, S., Wong. KK., Long. MD., and Kufe. D. (2022) MUC1-C integrates type II interferon and chromatin remodeling pathways in immunosuppression of prostate cancer. Oncoimmunology.11(1):2029298.
-3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022) MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells. Mol Cancer Res. [link](https://doi.org/10.1158/1541-7786.MCR-21-0672)
+3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022) MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells. Mol Cancer Res. [link](https://doi.org/10.1158/1541-7786.MCR-21-0672) (**co-corresponding author**)
 
 # 2021
 
@@ -34,13 +34,13 @@ permalink: /Publications/
 
 # 2020
 
-1. Wang, CF., Sun, DQ., Huang, X., Wan, CX., Li, ZY., Meyer, C., **Liu, T.**, and Liu, XS. Integrative Analyses of Single-cell Transcriptome and Regulome using MAESTRO. Under revision at Genome Biology
+1. Wang, CF., Sun, DQ., Huang, X., Wan, CX., Li, ZY., Meyer, C., **Liu, T.**, and Liu, XS. Integrative Analyses of Single-cell Transcriptome and Regulome using MAESTRO. Under revision at Genome Biology (**co-corresponding author**)
 1. Humphrey, K.M., Zhu, L., Hickman, M.A., Hasan, S., Maria, H.,**Liu, T.**, and Rusche, L.N. Evolution of Distinct Responses to Low NAD+ Stress by Rewiring the Sir2 Deacetylase Network in Yeasts. (2020) Genetics
 
 # 2019
 
 1. Chen, H.M., Sackton, T., Wang, J., Mutlu B., Levine, E., **Liu, T.** and Mango, S.E. A heterochromatic histone methyltransferase lowers nucleosomeoccupancy at euchromatic promoters. Under peer-review at Development.
-1. Tarbell, E. and **Liu, T.** (2019) HMMRATAC, The Hidden Markov ModeleR for ATAC-seq. Nucleic Acid Research 47(16), e91}
+1. Tarbell, E. and **Liu, T.** (2019) HMMRATAC, The Hidden Markov ModeleR for ATAC-seq. Nucleic Acid Research 47(16), e91} (**corresponding author**)
 1. O’Brown, Z.K., Boulias, K., Wang, J., Wang, S.Y., O’Brown, N.M., Hao, Z., Shibuya, H., Fady, P.-E., Shi, Y., He, C., Megason, S.G., **Liu, T.**, and Greer, E.L. (2019). Sources of artifact in measurements of 6mA and 4mC abundance in eukaryotic genomic DNA. BMC Genomics 20(1), 445
 1. Wang, Z.J., Zhong, P., Ma, K., Seo, J.S., Yang, F., Hu, Z., Zhang, F., Lin, L., Wang, J., **Liu, T.**, Mata, E., Greengard, P., and Yan, Z. (2019). Amelioration of autism-like social deficits by targeting histone methyltransferases EHMT1/2 in Shank3-deficient mice. Mol Psychiatry doi:10.1038/s41380-019-0351-21. Daivs, RB., Likhite, N., Jackson, CA., **Liu, T.**, Yu, MC. (2019) Robust repression of tRNA gene transcription during stress requires protein arginine methylation. Life Sci Alliance. 3;2(3). pii: e201800261.
 
