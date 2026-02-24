@@ -18,3 +18,26 @@ bioinformatics algorithms for genomics analysis such as
 Immunoprecipitation with High-throughput Sequencing. I have close
 collaborations with experimentalists, biologists and clinicians in
 various fields.
+
+## Latest News
+
+<ul>
+{% for post in site.posts limit:3 %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
+{% endfor %}
+</ul>
+
+## Featured Software
+
+- [MACS3](https://github.com/macs3-project/MACS)
+- [HMMRATAC](https://github.com/LiuLabUB/HMMRATAC)
+- [MAESTRO](https://github.com/liulab-dfci/MAESTRO)
+- More tools: [Software]({{ site.baseurl }}{% link Software.md %})
+
+## Join / Contact
+
+We welcome collaborations and applications from students and postdocs interested in computational biology, gene regulation, single-cell genomics, and AI for biomedical data analysis.
+
+- Contact: [tao.liu@roswellpark.org](mailto:tao.liu@roswellpark.org)
+- Lab overview: [Research]({{ site.baseurl }}{% link Research.md %})
+

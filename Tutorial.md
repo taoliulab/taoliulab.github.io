@@ -8,13 +8,13 @@ permalink: /Tutorials/
 
 # [Basic SSH Usages for the CCR server]({{ site.baseurl }}{% link _technical_notes/2023-06-02-basic-ssh-usages.md %})
 
-# How to use [miniforge](https://github.com/conda-forge/miniforge/blob/main/README.md)
+# [How to use Miniforge](/Tutorials/miniforge-setup-for-bioinformatics/)
 
-# [SLURM system](https://ubccr.freshdesk.com/support/solutions/articles/5000686927)
+# [SLURM system](/Tutorials/slurm-on-ccr-quickstart/)
 
-# [Python+Jupyter setup](https://www.youtube.com/watch?v=A5YyoCKxEOU)
+# [Python+Jupyter setup](/Tutorials/python-and-jupyter-setup/)
 
-# [R + Rstudio setup](/blog/R-and-Rstudio)
+# [R + Rstudio setup](/Tutorials/r-and-rstudio-setup/)
 
-# Pipeline management using [snakemake](/blog/Use-Snakemake) or [CWL](/blog/Use-CWL)
+# Pipeline management using [snakemake](/Tutorials/snakemake-quickstart/) or [CWL](/Tutorials/cwl-quickstart/)
 
