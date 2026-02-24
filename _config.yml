@@ -52,6 +52,7 @@ collections:
 exclude:
   - AGENTS.md
   - MAINTENANCE.md
+  - WEBSITE_IMPROVEMENT_PLAN.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
