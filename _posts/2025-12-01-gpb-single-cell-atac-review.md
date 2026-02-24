@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publication: Computational analyses and challenges of single-cell ATAC-seq"
-date: 2025-12-01 10:00:00 -0500
+date: 2025-11-21 10:00:00 -0500
 categories: News
 ---
 
