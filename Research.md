@@ -6,7 +6,7 @@ permalink: /Research/
 
 # Research overview
 
-My research develops and applies computational methods to study transcriptional and epigenetic regulation. My group focuses on open-source software for epigenomics and single-cell genomics, with an emphasis on regulatory mechanisms in cancer.
+My research develops and applies computational methods to study transcriptional and epigenetic regulation. My group focuses on open-source software for epigenomics and single-cell genomics, with an emphasis on regulatory mechanisms in cancer. A current focus is developing AI agents for genomics data reuse and metadata standardization.
 
 I developed MACS, a widely used algorithm for ChIP-seq and related assays (cited >19,000 times in Google Scholar), and contributed to development of the Cistrome platform for integrative analysis of cis-regulatory elements. I previously served in the ENCODE and modENCODE Data Analysis Center and Analysis Working Group, where I contributed to large-scale chromatin-profile analysis and comparative regulatory genomics across model organisms and human. I also contributed to community ChIP-seq best-practice guidelines.
 
@@ -18,6 +18,7 @@ I am the principal investigator of the MACS3 project, supported by the Chan Zuck
 - Statistical and computational models for regulatory element detection and interpretation.
 - Integrative analysis of transcriptional and epigenetic regulation in cancer systems.
 - Scalable software and data infrastructure for reproducible genomics analysis.
+- Development of AI agents for genomics data reuse and metadata standardization.
 
 ## Representative outputs
 
