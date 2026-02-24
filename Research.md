@@ -23,12 +23,12 @@ I am the principal investigator of the MACS3 project, supported by the Chan Zuck
 ## Representative outputs
 
 - [MACS3 project](https://github.com/macs3-project/MACS)
-- [Cistrome platform](http://cistrome.org/)
 - Cell Reports (2025): [Disrupting AR-WDR77 interaction in treatment-resistant prostate cancer](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X)
 - GPB (2025): [Computational Analyses and Challenges of Single-cell ATAC-seq](https://academic.oup.com/gpb/article/23/6/qzaf115/8260155)
 
 ## Current leadership roles
 
+- Associate Director, Biomedical Research Informatics Shared Resource at Roswell Park
 - Technical Lead, NCI ARTNet Coordinating and Data Management Center
 - Technical Lead, NCI CAP-IT Data and Resource Coordination Center
 - Technical Lead, NCI CIPNET Data and Resource Coordination Center
