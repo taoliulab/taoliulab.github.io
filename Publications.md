@@ -6,6 +6,7 @@ permalink: /Publications/
 
 
 > Note: **Liu, T.** is highlighted in bold. Role notes such as **co-corresponding author** are shown inline for relevant papers.
+
 # 2025
 
 1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X) (**co-corresponding author**)
