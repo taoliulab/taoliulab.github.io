@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tutorial: Snakemake quickstart"
-date: 2026-02-24 09:00:00 -0500
+date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
