@@ -25,28 +25,29 @@ permalink: /Publications/
 
 # 2022
 
-1. Wang, J., Morgan, W., Saini, A., **Liu, T.**, Lough, J., and Han, L. (2022) Single-cell transcriptomic profiling reveals specific maturation signatures in human cardiomyocytes derived from LMNB2-inactivated induced pluripotent stem cells. Front Cell Dev Biol. Nov 28;10:895162. doi: 10.3389/fcell.2022.895162. eCollection 2022.
-2. Hagiwara, M., Fushimi, A., Bhattacharya, A., Yamashita, N., Morimoto, Y., Oya, M., Withers, HG., Hu, Q., **Liu, T.**, Liu, S., Wong. KK., Long. MD., and Kufe. D. (2022) MUC1-C integrates type II interferon and chromatin remodeling pathways in immunosuppression of prostate cancer. Oncoimmunology.11(1):2029298.
-3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022) MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells. Mol Cancer Res. [link](https://doi.org/10.1158/1541-7786.MCR-21-0672) (**co-corresponding author**)
+1. Wang, J., Morgan, W., Saini, A., **Liu, T.**, Lough, J., and Han, L. (2022). *Single-cell transcriptomic profiling reveals specific maturation signatures in human cardiomyocytes derived from LMNB2-inactivated induced pluripotent stem cells.* **Frontiers in Cell and Developmental Biology** 10:895162. doi:10.3389/fcell.2022.895162.
+2. Hagiwara, M., Fushimi, A., Bhattacharya, A., Yamashita, N., Morimoto, Y., Oya, M., Withers, H.G., Hu, Q., **Liu, T.**, Liu, S., Wong, K.K., Long, M.D., and Kufe, D. (2022). *MUC1-C integrates type II interferon and chromatin remodeling pathways in immunosuppression of prostate cancer.* **OncoImmunology** 11(1):2029298.
+3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022). *MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells.* **Molecular Cancer Research**. [DOI link](https://doi.org/10.1158/1541-7786.MCR-21-0672) (**co-corresponding author**)
 
 # 2021
 
-1. Zhang, H., Song, L., Wang, X., Cheng, H., Wang, C., Meyer, C., **Liu, T.**, Tang M., Aluru, S., Yue, F., Liu, XS., and Li, H. (2021) Fast Alignment and Preprocessing of Chromatin Profiles with Chromap. Nat Commu. 12(1):6566.
-1. Wu, F., Bard, J.E., Kann, J., Yergeau, D., Sapkota, D., Ge, Y., Hu, Z., Wang, J., **Liu, T.**, and Mu, X. (2021) Single cell transcriptomics reveals lineage trajectory of retinal ganglion cells in wild-type and Atoh7-null retinas. Nat Commun. 12(1):1465.
-1. Zhou, Y., Bastian, I.N., Long, M.D., Dow, M., Li, W.,**Liu, T.**, Ngu, R.K., Antonucci, L., Huang, J.Y., Phung, Q.T., Zhao, X.H., Banerjee, S., Lin, X.J., Wang, H., Dang, B., Choi, S., Karin, D., Su, H., Ellisman, M.H., Jamieson, C., Bosenberg, M., Cheng, Z., Haybaeck, J., Kenner, L., Fisch, K.M., Bourgon, R., Hernandez, G., Lill, J.R., Liu, S., Carter, H., Mellman, I., Karin, M., and Shalapour, S. (2021) Activation of NF-κB and p300/CBP potentiates cancer chemoimmunotherapy through induction of MHC-I antigen presentation. Proc Natl Acad Sci U S A. 118(8).
-1. Amobi-McCloud, A., Muthuswamy, R., Battaglia, S., Yu, H., **Liu, T.**, Wang, J., Putluri, V., Singh, P., Qian, F., Huang, R.Y., Putluri, N., Takemasa, T., Lugade, A., Liu, S., and Odunsi, K. (2021) IDO1 expression in ovarian cancer induces PD-1 in T cells via aryl hydrocarbon receptor activation. Front Immunol. 12:678999
+1. Zhang, H., Song, L., Wang, X., Cheng, H., Wang, C., Meyer, C., **Liu, T.**, Tang, M., Aluru, S., Yue, F., Liu, X.S., and Li, H. (2021). *Fast Alignment and Preprocessing of Chromatin Profiles with Chromap.* **Nature Communications** 12(1):6566.
+2. Wu, F., Bard, J.E., Kann, J., Yergeau, D., Sapkota, D., Ge, Y., Hu, Z., Wang, J., **Liu, T.**, and Mu, X. (2021). *Single cell transcriptomics reveals lineage trajectory of retinal ganglion cells in wild-type and Atoh7-null retinas.* **Nature Communications** 12(1):1465.
+3. Zhou, Y., Bastian, I.N., Long, M.D., Dow, M., Li, W., **Liu, T.**, Ngu, R.K., Antonucci, L., Huang, J.Y., Phung, Q.T., Zhao, X.H., Banerjee, S., Lin, X.J., Wang, H., Dang, B., Choi, S., Karin, D., Su, H., Ellisman, M.H., Jamieson, C., Bosenberg, M., Cheng, Z., Haybaeck, J., Kenner, L., Fisch, K.M., Bourgon, R., Hernandez, G., Lill, J.R., Liu, S., Carter, H., Mellman, I., Karin, M., and Shalapour, S. (2021). *Activation of NF-κB and p300/CBP potentiates cancer chemoimmunotherapy through induction of MHC-I antigen presentation.* **Proceedings of the National Academy of Sciences USA** 118(8).
+4. Amobi-McCloud, A., Muthuswamy, R., Battaglia, S., Yu, H., **Liu, T.**, Wang, J., Putluri, V., Singh, P., Qian, F., Huang, R.Y., Putluri, N., Takemasa, T., Lugade, A., Liu, S., and Odunsi, K. (2021). *IDO1 expression in ovarian cancer induces PD-1 in T cells via aryl hydrocarbon receptor activation.* **Frontiers in Immunology** 12:678999.
 
 # 2020
 
-1. Wang, CF., Sun, DQ., Huang, X., Wan, CX., Li, ZY., Meyer, C., **Liu, T.**, and Liu, XS. Integrative Analyses of Single-cell Transcriptome and Regulome using MAESTRO. Under revision at Genome Biology (**co-corresponding author**)
-1. Humphrey, K.M., Zhu, L., Hickman, M.A., Hasan, S., Maria, H.,**Liu, T.**, and Rusche, L.N. Evolution of Distinct Responses to Low NAD+ Stress by Rewiring the Sir2 Deacetylase Network in Yeasts. (2020) Genetics
+1. Wang, C.F., Sun, D.Q., Huang, X., Wan, C.X., Li, Z.Y., Meyer, C., **Liu, T.**, and Liu, X.S. (2020). *Integrative Analyses of Single-cell Transcriptome and Regulome using MAESTRO.* Under revision at **Genome Biology** (**co-corresponding author**).
+2. Humphrey, K.M., Zhu, L., Hickman, M.A., Hasan, S., Maria, H., **Liu, T.**, and Rusche, L.N. (2020). *Evolution of Distinct Responses to Low NAD+ Stress by Rewiring the Sir2 Deacetylase Network in Yeasts.* **Genetics**.
 
 # 2019
 
-1. Chen, H.M., Sackton, T., Wang, J., Mutlu B., Levine, E., **Liu, T.** and Mango, S.E. A heterochromatic histone methyltransferase lowers nucleosomeoccupancy at euchromatic promoters. Under peer-review at Development.
-1. Tarbell, E. and **Liu, T.** (2019) HMMRATAC, The Hidden Markov ModeleR for ATAC-seq. Nucleic Acid Research 47(16), e91} (**corresponding author**)
-1. O’Brown, Z.K., Boulias, K., Wang, J., Wang, S.Y., O’Brown, N.M., Hao, Z., Shibuya, H., Fady, P.-E., Shi, Y., He, C., Megason, S.G., **Liu, T.**, and Greer, E.L. (2019). Sources of artifact in measurements of 6mA and 4mC abundance in eukaryotic genomic DNA. BMC Genomics 20(1), 445
-1. Wang, Z.J., Zhong, P., Ma, K., Seo, J.S., Yang, F., Hu, Z., Zhang, F., Lin, L., Wang, J., **Liu, T.**, Mata, E., Greengard, P., and Yan, Z. (2019). Amelioration of autism-like social deficits by targeting histone methyltransferases EHMT1/2 in Shank3-deficient mice. Mol Psychiatry doi:10.1038/s41380-019-0351-21. Daivs, RB., Likhite, N., Jackson, CA., **Liu, T.**, Yu, MC. (2019) Robust repression of tRNA gene transcription during stress requires protein arginine methylation. Life Sci Alliance. 3;2(3). pii: e201800261.
+1. Chen, H.M., Sackton, T., Wang, J., Mutlu, B., Levine, E., **Liu, T.**, and Mango, S.E. (2019). *A heterochromatic histone methyltransferase lowers nucleosome occupancy at euchromatic promoters.* Under peer review at **Development**.
+2. Tarbell, E., and **Liu, T.** (2019). *HMMRATAC, The Hidden Markov ModeleR for ATAC-seq.* **Nucleic Acids Research** 47(16):e91. (**corresponding author**)
+3. O’Brown, Z.K., Boulias, K., Wang, J., Wang, S.Y., O’Brown, N.M., Hao, Z., Shibuya, H., Fady, P.-E., Shi, Y., He, C., Megason, S.G., **Liu, T.**, and Greer, E.L. (2019). *Sources of artifact in measurements of 6mA and 4mC abundance in eukaryotic genomic DNA.* **BMC Genomics** 20(1):445.
+4. Wang, Z.J., Zhong, P., Ma, K., Seo, J.S., Yang, F., Hu, Z., Zhang, F., Lin, L., Wang, J., **Liu, T.**, Mata, E., Greengard, P., and Yan, Z. (2019). *Amelioration of autism-like social deficits by targeting histone methyltransferases EHMT1/2 in Shank3-deficient mice.* **Molecular Psychiatry**. doi:10.1038/s41380-019-0351-2.
+5. Davis, R.B., Likhite, N., Jackson, C.A., **Liu, T.**, and Yu, M.C. (2019). *Robust repression of tRNA gene transcription during stress requires protein arginine methylation.* **Life Science Alliance** 2(3):e201800261.
 
 # Prior to 2019
 
