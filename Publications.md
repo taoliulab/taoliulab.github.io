@@ -10,7 +10,7 @@ description: "Selected publications from the Tao Liu Lab, including recent work 
 
 # 2025
 
-1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247%2825%2901006-X) (**co-corresponding author**)
+1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X) (**co-corresponding author**)
 2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025). *Computational Analyses and Challenges of Single-cell ATAC-seq.* **Genomics, Proteomics & Bioinformatics** 23(6): qzaf115. [Journal link](https://academic.oup.com/gpb/article/23/6/qzaf115/8340039) (**co-corresponding author**)
 
 # 2024

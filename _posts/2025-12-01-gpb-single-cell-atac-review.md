@@ -12,4 +12,4 @@ Our review article is published in **Genomics, Proteomics & Bioinformatics**:
 
 - Journal: **Genomics, Proteomics & Bioinformatics** (2025), 23(6): qzaf115
 - Note: **Dr. Tao Liu is co-corresponding author**
-- Link: <https://scholar.google.com/citations?view_op=view_citation&hl=en&user=04GHe_kAAAAJ&sortby=pubdate&citation_for_view=04GHe_kAAAAJ:vCSeWdjOjw8C>
+- Link: <https://academic.oup.com/gpb/article/23/6/qzaf115/8340039>
