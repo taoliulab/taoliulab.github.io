@@ -1,0 +1,52 @@
+name: link-check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Monday 09:00 UTC
+    - cron: '0 9 * * 1'
+  push:
+    branches: [ master ]
+    paths:
+      - '**/*.md'
+      - '**/*.html'
+      - '_config.yml'
+      - '.github/workflows/link-check.yml'
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Check links in generated site
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 10
+            --timeout 20
+            --retry-wait-time 2
+            --exclude-mail
+            --exclude-loopback
+            --accept 200,206,429
+            --exclude "^https://scholar.google.com/"
+            --exclude "^https://www.reddit.com/"
+            --exclude "^https://d-nb.info/"
+            _site/**/*.html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
