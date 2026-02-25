@@ -10,8 +10,8 @@ description: "Selected publications from the Tao Liu Lab, including recent work 
 
 # 2025
 
-1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01006-X) (**co-corresponding author**)
-2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025). *Computational Analyses and Challenges of Single-cell ATAC-seq.* **Genomics, Proteomics & Bioinformatics** 23(6): qzaf115. [Journal link](https://academic.oup.com/gpb/article/23/6/qzaf115/8260155) (**co-corresponding author**)
+1. Dahiya, U.R., Kumari, S., Singh, N., Rawat, C., Cortes, E., Ghanem, Y., Corey, E., Dehm, S.M., Willard, B., Alshalalfa, M., Davicioni, E., McKenney, J., Weight, C., Haywood, S.C., Liu, S., **Liu, T.**, and Heemers, H.V. (2025). *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.* **Cell Reports**. [Journal link](https://www.cell.com/cell-reports/fulltext/S2211-1247%2825%2901006-X) (**co-corresponding author**)
+2. Wang, C., Zhou, J., Zhang, H., Zhuang, Z., Bai, G., Tang, M., Liu, S., **Liu, T.** (2025). *Computational Analyses and Challenges of Single-cell ATAC-seq.* **Genomics, Proteomics & Bioinformatics** 23(6): qzaf115. [Journal link](https://academic.oup.com/gpb/article/23/6/qzaf115/8340039) (**co-corresponding author**)
 
 # 2024
 
@@ -28,7 +28,7 @@ description: "Selected publications from the Tao Liu Lab, including recent work 
 
 1. Wang, J., Morgan, W., Saini, A., **Liu, T.**, Lough, J., and Han, L. (2022). *Single-cell transcriptomic profiling reveals specific maturation signatures in human cardiomyocytes derived from LMNB2-inactivated induced pluripotent stem cells.* **Frontiers in Cell and Developmental Biology** 10:895162. doi:10.3389/fcell.2022.895162.
 2. Hagiwara, M., Fushimi, A., Bhattacharya, A., Yamashita, N., Morimoto, Y., Oya, M., Withers, H.G., Hu, Q., **Liu, T.**, Liu, S., Wong, K.K., Long, M.D., and Kufe, D. (2022). *MUC1-C integrates type II interferon and chromatin remodeling pathways in immunosuppression of prostate cancer.* **OncoImmunology** 11(1):2029298.
-3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022). *MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells.* **Molecular Cancer Research**. [DOI link](https://doi.org/10.1158/1541-7786.MCR-21-0672) (**co-corresponding author**)
+3. Bhattacharya, A., Fushimi, A., Yamashita, N., Hagiwara, M., Morimoto, Y., Rajabi, H., Long, M., Abdulla, M., Ahmad, R., Street, K., Liu, S., **Liu, T.**, and Kufe, D. (2022). *MUC1-C Dictates JUN and BAF-mediated Chromatin Remodeling at Enhancer Signatures in Cancer Stem Cells.* **Molecular Cancer Research**. [Journal link](https://aacrjournals.org/mcr/article/20/4/556/682310/MUC1-C-Dictates-JUN-and-BAF-Mediated-Chromatin) (**co-corresponding author**)
 
 # 2021
 
