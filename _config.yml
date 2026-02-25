@@ -68,3 +68,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Analytics
+analytics_provider: plausible
+plausible_domain: lab.biomisc.org
+plausible_src: https://plausible.io/js/script.js

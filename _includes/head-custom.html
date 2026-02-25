@@ -1,0 +1,10 @@
+{%- comment -%}
+  Privacy-friendly analytics (Plausible).
+  Configure in _config.yml:
+    analytics_provider: plausible
+    plausible_domain: lab.biomisc.org
+    plausible_src: https://plausible.io/js/script.js
+{%- endcomment -%}
+{%- if site.analytics_provider == "plausible" and site.plausible_domain -%}
+<script defer data-domain="{{ site.plausible_domain | escape }}" src="{{ site.plausible_src | default: 'https://plausible.io/js/script.js' | escape }}"></script>
+{%- endif -%}
