@@ -5,7 +5,7 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This is a short starter guide for running **Snakemake on UB CCR** (SLURM cluster usage only).
+This is a short, practical guide for new lab members running **Snakemake on UB CCR** (SLURM usage only).
 
 Official references:
 - Snakemake CLI docs: <https://snakemake.readthedocs.io/en/stable/executing/cli.html>
@@ -53,12 +53,11 @@ snakemake \
   --jobs 50 \
   --default-resources mem_mb=4000 runtime=60 \
   --set-resources hello:slurm_account=<SlurmAccountName> \
-  --set-resources hello:slurm_partition=general-compute \
-  --set-resources hello:slurm_qos=general-compute
+  --set-resources hello:slurm_partition=general-compute
 ```
 
 Notes:
-- Use your real account/partition/QoS values from `slimits`.
+- Use your real account/partition values from `slimits`.
 - Keep resource requests realistic to avoid long queue wait.
 
 ## 5) Recommended profile (cleaner for lab usage)
@@ -75,7 +74,6 @@ set-resources:
   hello:
     slurm_account: <SlurmAccountName>
     slurm_partition: general-compute
-    slurm_qos: general-compute
 ```
 
 Run with:

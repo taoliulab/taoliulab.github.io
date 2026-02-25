@@ -5,7 +5,7 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This is a short starter guide for running **CWL workflows on UB CCR**.
+This is a short, practical guide for new lab members running **CWL workflows on UB CCR**.
 
 Official references:
 - CWL user guide: <https://www.commonwl.org/user_guide/>

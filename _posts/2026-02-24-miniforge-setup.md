@@ -5,10 +5,10 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This is a short setup guide for new lab members.
+This is a short, practical guide for new lab members setting up Miniforge on Linux or macOS.
 
-This version follows the **official Miniforge instructions**:  
-<https://github.com/conda-forge/miniforge>
+Official references:
+- Miniforge docs and releases: <https://github.com/conda-forge/miniforge>
 
 ## 1) Check your architecture
 

@@ -5,7 +5,7 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This tutorial is for setting up Python + Jupyter on your **own laptop** (especially MacBook) using **uv**.
+This is a short, practical guide for new lab members setting up Python + Jupyter on their **own laptop** (especially MacBook) using **uv**.
 
 Official references:
 - uv installation: <https://docs.astral.sh/uv/getting-started/installation/>

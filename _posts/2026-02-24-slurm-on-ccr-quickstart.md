@@ -5,9 +5,9 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This is a short starter guide for lab members running jobs on the University at Buffalo CCR cluster.
+This is a short, practical guide for new lab members running jobs on the University at Buffalo CCR cluster.
 
-Official references used for this tutorial:
+Official references:
 - CCR docs (Running Jobs): <https://docs.ccr.buffalo.edu/en/latest/hpc/jobs/>
 - CCR example scripts: <https://github.com/ubccr/ccr-examples/tree/main/slurm>
 
@@ -111,7 +111,7 @@ exit
 scancel <JobID>
 ```
 
-## 6) Common mistakes to avoid
+## 6) Common issues
 
 - Submitting from compute node instead of login node.
 - Forgetting to set `--account` to a valid Slurm account.

@@ -5,7 +5,7 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This tutorial is for setting up R and RStudio on your **own laptop** (MacBook first).
+This is a short, practical guide for new lab members setting up R and RStudio on their **own laptop** (MacBook first).
 
 Official references:
 - CRAN macOS R installers: <https://cran.r-project.org/bin/macosx/>
