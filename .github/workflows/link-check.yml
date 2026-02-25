@@ -41,7 +41,6 @@ jobs:
             --max-concurrency 10
             --timeout 20
             --retry-wait-time 2
-            --exclude-mail
             --exclude-loopback
             --accept 200,206,429
             --exclude "^https://scholar.google.com/"
