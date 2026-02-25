@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publications/
+description: "Selected publications from the Tao Liu Lab, including recent work in cancer epigenomics and computational genomics."
 ---
 
 

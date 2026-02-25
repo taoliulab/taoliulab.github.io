@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: "Tao Liu Lab at Roswell Park: computational genomics, epigenomics, software, publications, and tutorials."
 ---
 
 Welcome to the main page of Tao Liu's lab page at Roswell Park.

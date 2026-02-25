@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
+description: "Teaching contributions and graduate-level coursework in computational oncology and bioinformatics."
 ---
 
 Teaching is the best approach to review old knowledge and to learn new

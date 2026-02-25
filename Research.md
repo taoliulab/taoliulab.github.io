@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
+description: "Research directions in transcriptional and epigenetic regulation, algorithm development, and AI agents for genomics data reuse."
 ---
 
 # Research overview

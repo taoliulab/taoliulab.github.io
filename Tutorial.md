@@ -2,6 +2,7 @@
 layout: page
 title:  "Tutorials"
 permalink: /tutorials/
+description: "Practical tutorials and technical notes for Linux, CCR usage, workflow tools, and genomics computing."
 ---
 
 # [Basic Linux Command Lines]({{ site.baseurl }}{% link _technical_notes/2023-05-22-basic-linux-commands.md %})

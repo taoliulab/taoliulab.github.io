@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /People/
+description: "Current and past members of the Tao Liu Lab at Roswell Park."
 ---
 
 ## PI

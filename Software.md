@@ -2,6 +2,7 @@
 layout: page
 title: "Software"
 permalink: /Software/
+description: "Open-source software and analysis pipelines developed by the Tao Liu Lab."
 ---
 
 # List of software we developed
