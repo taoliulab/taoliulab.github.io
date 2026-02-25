@@ -1,24 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 description: "Tao Liu Lab at Roswell Park: computational genomics, epigenomics, software, publications, and tutorials."
 ---
 
-Welcome to the main page of Tao Liu's lab page at Roswell Park.
+Welcome to the Tao Liu Lab at Roswell Park Comprehensive Cancer Center.
 
-My long-term research interest is to develop and apply computational
-approaches for studying transcriptional and epigenetic regulation. My
-group at Roswell Park Comprehensive Cancer Center focuses on building
-bioinformatics algorithms for single-cell genomics assays to study
-gene regulatory mechanisms and the influence of the genetic variations
-at cis-regulatory elements. I am maintaining some widely used
-bioinformatics algorithms for genomics analysis such as
-[MACS](https://macs3-project.github.io/MACS/) for Chromatin
-Immunoprecipitation with High-throughput Sequencing. I have close
-collaborations with experimentalists, biologists and clinicians in
-various fields.
+We develop computational methods and open-source software to study transcriptional and epigenetic regulation, with a focus on cancer biology, single-cell genomics, and AI-enabled genomics data reuse.
+
+## Research at a glance
+
+- Algorithm development for ChIP-seq, CUT&RUN, ATAC-seq, and single-cell assays
+- Regulatory genomics in cancer and developmental systems
+- AI agent development for genomics data reuse and metadata standardization
+- Scalable, reproducible analysis workflows and data infrastructure
+
+## Quick links
+
+- [Research]({{ site.baseurl }}{% link Research.md %})
+- [Publications]({{ site.baseurl }}{% link Publications.md %})
+- [Software]({{ site.baseurl }}{% link Software.md %})
+- [Tutorials]({{ site.baseurl }}{% link Tutorial.md %})
+- [People]({{ site.baseurl }}{% link People.md %})
 
 ## Latest News
 
@@ -51,4 +53,3 @@ We welcome collaborations and applications from students and postdocs interested
 
 - Contact: [tao.liu@roswellpark.org](mailto:tao.liu@roswellpark.org)
 - Lab overview: [Research]({{ site.baseurl }}{% link Research.md %})
-
