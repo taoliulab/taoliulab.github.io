@@ -5,112 +5,112 @@ date: 2026-02-23 09:00:00 -0500
 categories: Tutorials
 ---
 
-This is a short starter guide for using Python and Jupyter on UB CCR.
+This tutorial is for setting up Python + Jupyter on your **own laptop** (especially MacBook) using **uv**.
 
-Official references used for this tutorial:
-- CCR Python docs: <https://docs.ccr.buffalo.edu/en/latest/howto/python/>
-- CCR jobs docs: <https://docs.ccr.buffalo.edu/en/latest/hpc/jobs/>
-- Jupyter install docs: <https://jupyter.org/install>
+Official references:
+- uv installation: <https://docs.astral.sh/uv/getting-started/installation/>
+- uv projects guide: <https://docs.astral.sh/uv/guides/projects/>
+- Jupyter install: <https://jupyter.org/install>
 
-## 1) Login and load CCR Python module
+## 1) Install `uv`
 
-```bash
-ssh <CCRUsername>@vortex.ccr.buffalo.edu
-module load gcc python
-which python
-```
-
-Important: On CCR, **always load `gcc python` first** before creating environments.
-
-## 2) Create a virtual environment in project space
-
-Use your group project directory (not home directory):
+### macOS / Linux (official installer)
 
 ```bash
-module load gcc python
-python3 -m venv /projects/academic/<YourGroupName>/venvs/lab-py
-source /projects/academic/<YourGroupName>/venvs/lab-py/bin/activate
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Then upgrade pip and install basics:
+If you use Homebrew on macOS:
 
 ```bash
-pip install --upgrade pip
-pip install jupyterlab ipykernel numpy pandas scipy matplotlib
+brew install uv
 ```
 
-## 3) Register a Jupyter kernel
+Restart terminal, then verify:
 
 ```bash
-module load gcc python
-source /projects/academic/<YourGroupName>/venvs/lab-py/bin/activate
-python3 -m ipykernel install --user --name lab-py --display-name "Python (lab-py)"
+uv --version
 ```
 
-After this, your kernel should appear in Jupyter sessions on CCR (you may need to refresh/restart the session).
-
-## 4) Start JupyterLab (interactive use)
-
-For local testing on a compute allocation:
+## 2) Install Python with `uv`
 
 ```bash
-module load gcc python
-source /projects/academic/<YourGroupName>/venvs/lab-py/bin/activate
-jupyter lab --no-browser --ip=0.0.0.0 --port=8888
+uv python install 3.11
 ```
 
-In practice on CCR, many users launch Jupyter through Open OnDemand and then choose the kernel created above.
-
-## 5) Batch-first recommendation for heavy workloads
-
-Use notebooks for exploration, but run heavy training/analysis as Slurm batch jobs for better resource usage.
-
-Example batch skeleton:
+You can check installed Python versions:
 
 ```bash
-#!/bin/bash -l
-#SBATCH --cluster=ub-hpc
-#SBATCH --partition=general-compute
-#SBATCH --qos=general-compute
-#SBATCH --account=<SlurmAccountName>
-#SBATCH --time=04:00:00
-#SBATCH --nodes=1
-#SBATCH --ntasks=1
-#SBATCH --cpus-per-task=8
-#SBATCH --mem=32G
-#SBATCH --job-name=py-job
-#SBATCH --output=%x-%j.out
-
-module load gcc python
-source /projects/academic/<YourGroupName>/venvs/lab-py/bin/activate
-python train.py
+uv python list
 ```
 
-Submit with:
+## 3) Create a project and virtual environment
 
 ```bash
-sbatch job.bash
+mkdir lab-python
+cd lab-python
+uv init
+uv venv --python 3.11
+source .venv/bin/activate
 ```
 
-## 6) Common pitfalls (CCR-specific)
-
-- Creating venv before `module load gcc python` (can break kernels).
-- Installing large packages into home directory and running out of quota.
-- Using system Python from login node instead of CCR module Python.
-- Expecting every package (especially GPU-heavy stacks) to install cleanly with `pip`.
-
-For complex GPU/ML stacks, follow CCR guidance (EasyBuild or container workflow).
-
-## 7) Quick maintenance commands
+## 4) Install Jupyter and common scientific packages
 
 ```bash
-# activate env
-source /projects/academic/<YourGroupName>/venvs/lab-py/bin/activate
-
-# freeze package versions
-pip freeze > requirements.txt
-
-# remove an old kernel
-jupyter kernelspec list
-jupyter kernelspec uninstall lab-py
+uv pip install jupyterlab ipykernel numpy pandas scipy matplotlib
 ```
+
+## 5) Register a Jupyter kernel for this environment
+
+```bash
+python -m ipykernel install --user --name lab-python --display-name "Python (lab-python)"
+```
+
+## 6) Start JupyterLab
+
+```bash
+jupyter lab
+```
+
+Open the URL shown in terminal (usually `http://localhost:8888/...`).
+
+## 7) Daily workflow
+
+```bash
+cd ~/path/to/lab-python
+source .venv/bin/activate
+jupyter lab
+```
+
+When done:
+
+```bash
+deactivate
+```
+
+## 8) Share/reproduce environment
+
+Export dependencies:
+
+```bash
+uv pip freeze > requirements.txt
+```
+
+Set up on another machine:
+
+```bash
+uv python install 3.11
+uv venv --python 3.11
+source .venv/bin/activate
+uv pip install -r requirements.txt
+```
+
+## 9) Common issues
+
+- `uv: command not found` → restart terminal, then re-check PATH.
+- Wrong Python version in notebook → activate `.venv` and re-run `ipykernel install`.
+- Package conflicts → create a fresh project folder and a new `.venv`.
+
+## 10) Lab recommendation
+
+Use **one project = one `.venv`**. This keeps dependencies clean and reproducible for collaboration.
