@@ -7,121 +7,104 @@ categories: Tutorials
 
 This is a short setup guide for new lab members.
 
-Miniforge gives you a clean Python/R package environment manager (`conda` + `mamba`) on Linux and macOS.
+This version follows the **official Miniforge instructions**:  
+<https://github.com/conda-forge/miniforge>
 
-## 1) Install Miniforge
-
-### Linux
-
-```bash
-wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
-bash Miniforge3-Linux-x86_64.sh
-```
-
-### macOS (Intel)
+## 1) Check your architecture
 
 ```bash
-curl -L -O https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
-bash Miniforge3-MacOSX-x86_64.sh
+uname
+uname -m
 ```
 
-### macOS (Apple Silicon, M1/M2/M3)
+Expected architecture values:
+- Linux Intel/AMD: `x86_64`
+- Linux ARM64: `aarch64`
+- macOS Intel: `x86_64`
+- macOS Apple Silicon (M1/M2/M3/M4 and newer): `arm64`
+
+## 2) Download and run the official installer
+
+### Linux (recommended command from Miniforge docs)
 
 ```bash
-curl -L -O https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
-bash Miniforge3-MacOSX-arm64.sh
+wget -O Miniforge3.sh "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+bash Miniforge3.sh
 ```
 
-When asked, choose:
-- install to default path (recommended)
+### macOS (recommended command from Miniforge docs)
+
+```bash
+curl -fsSLo Miniforge3.sh "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-$(uname -m).sh"
+bash Miniforge3.sh
+```
+
+During interactive install:
+- use default install location (recommended)
 - allow installer to run `conda init`
 
-Then close and reopen your terminal.
+Then close and reopen terminal.
 
-## 2) Confirm installation
+## 3) Confirm installation
 
 ```bash
 conda --version
 mamba --version
 ```
 
-If these commands fail, run:
+If commands are not found:
 
 ```bash
-source ~/miniforge3/bin/activate
-conda init
+~/miniforge3/bin/conda init
 ```
 
-Then restart terminal.
+Restart terminal after that.
 
-## 3) Create a lab environment
-
-Use one environment per project.
+## 4) Create your lab environment
 
 ```bash
 mamba create -n lab python=3.11 -y
 conda activate lab
-```
-
-Install common packages:
-
-```bash
 mamba install -y numpy pandas scipy matplotlib jupyterlab
 ```
 
-## 4) Daily usage
-
-Activate environment:
+## 5) Daily usage
 
 ```bash
 conda activate lab
-```
-
-List environments:
-
-```bash
 conda env list
-```
-
-Deactivate:
-
-```bash
 conda deactivate
 ```
 
-Update packages in current environment:
+## 6) Best practice for lab work
 
-```bash
-mamba update --all -y
-```
-
-## 5) Recommended lab practice
-
-- Do not install project dependencies into `base`.
-- Keep one environment per project (for reproducibility).
-- Export environment file when sharing pipelines:
+- Do **not** install project dependencies into `base`.
+- Use one conda environment per project.
+- Export an environment file when sharing workflows:
 
 ```bash
 conda env export --no-builds > environment.yml
 ```
 
-Recreate from file:
+Recreate the same environment elsewhere:
 
 ```bash
 mamba env create -f environment.yml
 ```
 
-## 6) Quick troubleshooting
+## 7) Optional cleanup / shell behavior
 
-If dependency solving is slow, use `mamba` instead of `conda`.
-
-If shell activation does not work, run:
+Disable auto-activating `base` at every terminal start:
 
 ```bash
-conda init bash   # Linux / bash users
+conda config --set auto_activate_base false
+```
+
+If shell activation is still broken:
+
+```bash
+conda init bash   # Linux bash users
 conda init zsh    # macOS default shell
 ```
 
 Then restart terminal.
-
-If you accidentally broke `base`, create a fresh environment and continue there.
