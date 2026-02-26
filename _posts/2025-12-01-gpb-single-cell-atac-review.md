@@ -7,7 +7,7 @@ categories: News
 
 Our review article is published in **Genomics, Proteomics & Bioinformatics**:
 
-This review gives a practical overview of the computational landscape for single-cell ATAC-seq, from core processing steps to higher-level biological interpretation. It discusses common analytical tasks such as quality control, feature/peak representation, clustering, cell-type annotation, trajectory and regulatory inference, and integration with other modalities. It also highlights open challenges that still affect day-to-day analysis, including sparsity, batch effects, benchmarking gaps, and reproducibility across pipelines.
+According to the paper’s abstract, this review provides a concise end-to-end overview of published scATAC-seq workflows, spanning preprocessing to downstream analyses including quality control, alignment, peak calling, dimensionality reduction, clustering, gene regulation score calculation, cell type annotation, and multiomics integration. It also surveys key scATAC-seq databases, discusses emerging deep-learning and AI foundation-model approaches, and highlights recent advances in spatial ATAC-seq and related computational methods, with the goal of helping researchers choose appropriate tools and build customized analysis workflows.
 
 **Wang C, Zhou J, Zhang H, Zhuang Z, Bai G, Tang M, Liu S, Liu T.**
 *Computational Analyses and Challenges of Single-cell ATAC-seq.*
