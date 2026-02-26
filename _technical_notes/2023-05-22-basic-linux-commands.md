@@ -4,66 +4,84 @@ title: "Basic Linux Commands"
 date: 2023-05-22
 ---
 
-# 1. Navigating the File System
+This is a short, practical guide for new lab members getting started with the Linux command line.
 
-- `pwd`: **Print Working Directory.** This command displays the current directory.
+Official references:
+- Ubuntu CLI beginner guide: <https://ubuntu.com/tutorials/command-line-for-beginners>
+- Linux man pages overview: <https://man7.org/linux/man-pages/>
 
-- `cd`: **Change Directory.** Navigate between directories. 
-  - Usage: `cd [directory_name]`. 
-  - For example, `cd /home/user/Documents` will navigate to the Documents directory.
+## 1) Navigation
 
-- `ls`: **List.** This command lists files and directories in the current directory.
-  - Use `ls -l` for a detailed list, or `ls -a` to see hidden files.
+```bash
+pwd                  # show current directory
+ls                   # list files/folders
+ls -la               # list with details + hidden files
+cd /path/to/folder   # change directory
+cd ..                # move up one level
+```
 
-You can learn more about navigating the Linux file system [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+## 2) File and folder operations
 
-# 2. File Operations
+```bash
+touch notes.txt                  # create empty file
+cp source.txt backup.txt         # copy file
+cp -r project project_backup     # copy folder recursively
+mv oldname.txt newname.txt       # rename file
+mv file.txt /path/to/dest/       # move file
+rm file.txt                      # remove file
+rm -r folder/                    # remove folder recursively
+mkdir results                    # create folder
+```
 
-- `touch`: Create a new empty file.
-  - Usage: `touch [file_name]`.
+## 3) View and search text
 
-- `cp`: **Copy.** Copy files or directories.
-  - Usage: `cp [source_file] [destination_directory]`.
+```bash
+cat file.txt                     # print file content
+less file.txt                    # scroll through file
+head -n 20 file.txt              # first 20 lines
+tail -n 20 file.txt              # last 20 lines
+grep "pattern" file.txt          # search text in file
+grep -R "pattern" folder/        # recursive search in folder
+```
 
-- `mv`: **Move.** Move or rename files or directories.
-  - Usage: `mv [source_file] [destination_directory]`.
+## 4) Permissions and ownership
 
-- `rm`: **Remove.** Delete files or directories.
-  - Usage: `rm [file_name]`.
+```bash
+ls -l                            # show permission bits
+chmod u+x script.sh              # add execute for user
+chmod 644 file.txt               # rw-r--r--
+chown user:group file.txt        # change owner/group (if permitted)
+```
 
-More details about file operations can be found [here](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/).
+## 5) Process management
 
-# 3. Permissions
+```bash
+ps -ef                           # list running processes
+top                              # live process monitor
+kill <pid>                       # stop process by PID
+kill -9 <pid>                    # force kill (use cautiously)
+```
 
-- `chmod`: **Change Mode.** Change the permissions of a file or directory.
-  - Usage: `chmod [permissions] [file_name]`. 
+## 6) Disk and system checks
 
-Read more about permissions [here](https://linuxhandbook.com/linux-file-permissions/).
+```bash
+uname -a                         # system/kernel info
+df -h                            # disk usage by filesystem
+du -sh *                         # size of files/folders in current dir
+free -h                          # memory usage
+```
 
-# 4. Process Management
+## 7) Help and best practice
 
-- `ps`: **Process Status.** Show running processes.
+```bash
+man ls                           # full manual for a command
+ls --help                        # quick help
+```
 
-- `top`: Display an ongoing, updated list of running processes.
+Best practice:
+- Avoid running destructive commands as root unless necessary.
+- Double-check paths before `rm -r`.
+- Start with `-n` or dry-run options when available.
+- Keep command history readable with comments in scripts.
 
-- `kill`: Terminate a process.
-  - Usage: `kill [process_id]`.
-
-You can find more information about process management [here](https://www.digitalocean.com/community/tutorials/how-to-manage-processes-in-linux).
-
-# 5. System Information
-
-- `uname`: Display system information.
-
-- `df`: **Disk Free.** Show disk usage.
-
-- `free`: Show memory usage.
-
-Check out this [link](https://www.tecmint.com/linux-commands-cheat-sheet/) for more system information commands.
-
-Remember, to learn more about any command, you can use the `man` command, which stands for "manual". For example, `man ls` will show you the manual for the `ls` command.
-
-Please note that many of these commands will require you to have appropriate permissions in your Linux system to run. Be cautious when using commands that modify files or processes, especially when running commands as the root user. 
-
-This guide should help you get started with basic Linux command line operations. As you become more comfortable, you can explore more complex commands and procedures. Happy learning!
-
+For lab workflows, combine these basics with the other tutorials on SSH, SLURM, Miniforge, Snakemake, and CWL.
