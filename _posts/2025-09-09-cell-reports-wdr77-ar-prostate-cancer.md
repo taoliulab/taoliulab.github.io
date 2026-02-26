@@ -7,6 +7,8 @@ categories: News
 
 Our new study is published in **Cell Reports**:
 
+This study identifies the AR coregulator **WDR77** as a key driver of treatment-resistant prostate cancer progression and shows that AR and WDR77 have substantial overlap in genomic action. We found that directly disrupting AR–WDR77 interaction reduces AR DNA binding and AR-dependent transcription, suppresses proliferation in AR-positive prostate cancer models, and delays growth in patient-derived xenograft and fresh-specimen organoid systems. Together, the work supports AR–WDR77 interaction as a promising therapeutic target for disease that progresses after androgen-deprivation therapy.
+
 **Dahiya UR, Kumari S, Singh N, Rawat C, Cortes E, Ghanem Y, Corey E, Dehm SM, Willard B, Alshalalfa M, Davicioni E, McKenney J, Weight C, Haywood SC, Liu S, Liu T, Heemers HV.**
 *Disrupting the interaction between androgen receptor and its coregulator WDR77 delays the growth of treatment-resistant prostate cancer.*
 
