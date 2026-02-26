@@ -14,14 +14,6 @@ We develop computational methods and open-source software to study transcription
 - AI agent development for genomics data reuse and metadata standardization
 - Scalable, reproducible analysis workflows and data infrastructure
 
-## Quick links
-
-- [Research]({{ site.baseurl }}{% link Research.md %})
-- [Publications]({{ site.baseurl }}{% link Publications.md %})
-- [Software]({{ site.baseurl }}{% link Software.md %})
-- [Tutorials]({{ site.baseurl }}{% link Tutorial.md %})
-- [People]({{ site.baseurl }}{% link People.md %})
-
 ## Latest News
 
 <ul>
@@ -53,3 +45,5 @@ We welcome collaborations and applications from students and postdocs interested
 
 - Contact: [tao.liu@roswellpark.org](mailto:tao.liu@roswellpark.org)
 - Lab overview: [Research]({{ site.baseurl }}{% link Research.md %})
+- Tutorials: [Tutorials]({{ site.baseurl }}{% link Tutorial.md %})
+- Publications: [Publications]({{ site.baseurl }}{% link Publications.md %})
