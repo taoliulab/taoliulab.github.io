@@ -5,33 +5,35 @@ permalink: /People/
 description: "Current and past members of the Tao Liu Lab at Roswell Park."
 ---
 
-## PI
+## Principal investigator
 
-* [Tao Liu]
+- [Tao Liu, PhD](https://www.roswellpark.org/tao-liu), computational genomics, epigenomics, and open-source method development
 
-## Students
+## Student
 
-* Jiaojiao Zhou
+- Jiaojiao Zhou, single-cell chromatin accessibility and computational genomics
 
-## BRSIR team
+## Biomedical Research Informatics Shared Resource team
 
-* Philip Whalen
-* Philippa Doherty
+- Philip Whalen, research informatics and data infrastructure
+- Philippa Doherty, scientific software and workflow development
 
-## BioC developer
+## Bioconductor developer
 
-* Lori (Shepherd) Kern
+- Lori (Shepherd) Kern, Bioconductor software development and support
 
-## Past members (Phd Students and Post-doc researchers)
+## Past PhD students and postdoctoral researchers
 
-* Evan Tarball
-* Liqing Tian
-* Lisa Zhu
+- Evan Tarbell
+- Liqing Tian
+- Lisa Zhu
 
 ## Summer students
 
-* Hannah You
-* Jonathan Li
-* Trey Hutson
+- Hannah You
+- Jonathan Li
+- Trey Hutson
 
-[Tao Liu]: https://www.roswellpark.org/tao-liu
+## Join the lab
+
+We welcome inquiries from students and postdoctoral researchers interested in computational biology, gene regulation, single-cell genomics, and AI for biomedical data analysis. Email [tao.liu@roswellpark.org](mailto:tao.liu@roswellpark.org) with a short description of your interests and experience.

@@ -5,53 +5,42 @@ permalink: /Software/
 description: "Open-source software and analysis pipelines developed by the Tao Liu Lab."
 ---
 
-# List of software we developed
+# Open-source software
 
-- Bioinformatics software
+We develop software for epigenomics, single-cell analysis, and biomedical data reuse. Source code, documentation, and issue trackers are linked below.
 
-	- [MACS]
+## Core tools
 
-	- [HMMRATAC]
+### [MACS3](https://github.com/macs3-project/MACS)
 
-	- [MAESTRO]
-	
-	- [RetrieverApp]
+MACS3 is a peak caller for ChIP-seq and other DNA enrichment assays. It models local background signal to identify enriched genomic regions. See the [documentation](https://macs3-project.github.io/MACS/) for installation and command-line usage.
 
-- Data anaylysis Pipelines
+### [HMMRATAC](https://github.com/LiuLabUB/HMMRATAC)
 
-	- [ChIP-seq analysis pipeline]
+HMMRATAC identifies open chromatin regions from paired-end ATAC-seq data with a hidden Markov model. The current implementation is available through the [`macs3 hmmratac`](https://macs3-project.github.io/MACS/docs/hmmratac.html) command; the original Java repository is retained for reference.
 
-	- [ATAC-seq analysis pipeline]
+### [MAESTRO](https://github.com/liulab-dfci/MAESTRO)
 
-	- [RNA-seq analysis pipeline]
+MAESTRO is an analysis workflow for single-cell RNA-seq and ATAC-seq. It covers processing, quality control, clustering, cell-type annotation, and regulatory analysis from raw sequencing data.
 
-	- scRNA-seq pipeline
+### [RetrieverApp](https://github.com/RetrieverApp/retriever_app)
 
-	- scATAC-seq pipeline
+RetrieverApp collects publications and linked records from PubMed, GEO, SRA, dbGaP, and ClinicalTrials.gov. It produces editable reports for investigators and large research collaborations.
 
-	- ChIP/ATAC-seq + RNA-seq integration pipeline
+## Genomics analysis pipelines
 
-	- scRNA+scATAC-seq integration pipeline
+Our [Snakemake pipeline repository](https://github.com/macs3-project/genomics-analysis-pipelines) contains experimental workflows built around MACS3:
 
-- Web services
+- [Bulk ChIP-seq](https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-ChIP-seq)
+- [Bulk ATAC-seq](https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-ATAC-seq)
+- [Bulk RNA-seq](https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-RNA-seq)
 
-	- [Cistrome]
+## Web platforms and databases
 
-- Database
+### [Cistrome](http://cistrome.org/ap/root)
 
-	- [Cistrome DB]
+Cistrome provides web-based tools for integrative analysis of transcriptional and epigenetic regulation.
 
-# List of software we usually use
+### [Cistrome Data Browser](http://cistrome.org/db/)
 
-
-
-
-[MACS]: https://github.com/macs3-project/MACS
-[HMMRATAC]: https://github.com/LiuLabUB/HMMRATAC
-[RetrieverApp]: https://github.com/RetrieverApp/retriever_app
-[MAESTRO]: https://github.com/liulab-dfci/MAESTRO
-[Cistrome]: http://cistrome.org/ap/root
-[Cistrome DB]: http://cistrome.org/db/
-[ChIP-seq analysis pipeline]: https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-ChIP-seq
-[ATAC-seq analysis pipeline]: https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-ATAC-seq
-[RNA-seq analysis pipeline]: https://github.com/macs3-project/genomics-analysis-pipelines/tree/master/Bulk-RNA-seq
+Cistrome Data Browser makes uniformly processed human and mouse ChIP-seq and chromatin-accessibility datasets available for search, visualization, and reuse.
